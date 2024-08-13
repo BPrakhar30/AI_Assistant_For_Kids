@@ -23,6 +23,7 @@ To run the application locally, follow these steps:
 3. Interact with the Assistant: Once the Streamlit UI launches, choose between the following options:
 
     Record and Get Response: Use speech input for interaction.
+   
     Type and Get Response: Use text input for interaction.
 
 ## Code Structure
