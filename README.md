@@ -34,4 +34,5 @@ text2Speech.py: Converts the assistant's text responses into speech.
 
 ## Future Enhancements
 Vision Modality: Integration of visual input to further enrich interactions.
+
 Mobile App Development: The ultimate goal is to transition this project into a mobile application, making it easily accessible for kids.
