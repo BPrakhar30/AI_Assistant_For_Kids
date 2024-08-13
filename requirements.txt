@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-openai
+langchain-community
+openai
+pandas
+whisper
+pyaudio
+pydub
