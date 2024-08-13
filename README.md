@@ -27,7 +27,9 @@ To run the application locally, follow these steps:
 
 ## Code Structure
 app.py: The main file that sets up the Streamlit UI.
+
 speech2Text.py: Handles the conversion of voice input to text.
+
 text2Speech.py: Converts the assistant's text responses into speech.
 
 ## Future Enhancements
